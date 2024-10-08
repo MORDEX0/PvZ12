@@ -1,0 +1,21 @@
+header {
+    background-color: #4CAF50; /* Зеленый цвет фона */
+    color: white; /* Цвет текста */
+    padding: 20px; /* Отступы вокруг */
+    text-align: center; /* Центрирование текста */
+}
+
+nav {
+    margin-top: 10px; /* Отступ сверху для навигации */
+}
+
+nav a {
+    color: white; /* Цвет ссылок */
+    text-decoration: none; /* Убираем подчеркивание */
+    margin: 0 15px; /* Отступы между ссылками */
+    font-weight: bold; /* Жирный шрифт */
+}
+
+nav a:hover {
+    text-decoration: underline; /* Подчеркивание при наведении */
+}

@@ -1,0 +1,15 @@
+{
+    "products": [
+      {
+        "id": 1,
+        "name": "Фигурка растения",
+        "category": "Фигурки",
+        "price": 500,
+        "description": "Фигурка Peashooter",
+        "image": "assets/images/mug1.png",
+        "favorite": false
+      }
+    ],
+    "cart": [],
+    "favorites": []
+  }
